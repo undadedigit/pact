@@ -8,7 +8,6 @@ smart contracts to run on a [fast deterministic blockchain](http://kadena.io).
 
 Quick Start: Browser
 ---
-
 The easiest way to try Pact is [in the browser](http://kadena.io/try-pact).
 
 Quick Start: Atom
@@ -26,7 +25,6 @@ You'll then need to install the Pact interpreter/REPL. On Mac, the easiest way i
 ```
 brew install kadena-io/pact/pact
 ```
-
 Installing Pact with Binary Distributions
 ---
 
